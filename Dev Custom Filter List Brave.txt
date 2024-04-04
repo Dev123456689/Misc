@@ -1,5 +1,5 @@
 ! Title: Dev Custom Filter List Brave
-! Homepage: https://github.com/Dev123456689/Lilter_List
+! Homepage: https://github.com/Dev123456689/Filter_List
 ! Description: Dev's custom filter list for Brave and UBO for removing ads, annoyances and url tracking parameter that other filter list ignores.
 ! Last updated: 04/04/2024
 ! Script last updated: 04/04/2024
