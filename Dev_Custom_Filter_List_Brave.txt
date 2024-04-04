@@ -23,3 +23,7 @@
 ||google.*^$removeparam=ved
 ||google.*^$removeparam=dpr
 ||google.*^$removeparam=uact
+||google.*^$removeparam=sclient
+||google.*^$removeparam=uact
+||google.*^$removeparam=uact
+
