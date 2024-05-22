@@ -1,0 +1,16 @@
+! name: Boost Discussions
+! description: A goggle that boost threads and discussions.
+! public: true
+! author: Dev
+
+
+$boost=2,site=reddit.com
+$boost=2,site=old.reddit.com
+$boost=1,site=forum.xda-developers.com
+$boost=1,site=xdaforums.com
+$boost=1,site=quora.com
+$boost=1,site=stackoverflow.com
+$boost=1,site=meta.stackexchange.com
+$boost=1,site=answers.microsoft.com
+$boost=1,site=askubuntu.com
+$boost=1,site=forums.tomshardware.com
