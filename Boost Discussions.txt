@@ -1,4 +1,4 @@
-! name: Online Shopping
+! name: Boost Discussions
 ! description: A goggle that boost threads and discussions.
 ! public: true
 ! author: Dev
