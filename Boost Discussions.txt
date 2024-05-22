@@ -14,3 +14,4 @@ $boost=3,site=meta.stackexchange.com
 $boost=3,site=answers.microsoft.com
 $boost=3,site=askubuntu.com
 $boost=3,site=forums.tomshardware.com
+$boost=3,site=community.brave.com
