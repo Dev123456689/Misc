@@ -16,4 +16,6 @@ $boost=3,site=askubuntu.com
 $boost=3,site=forums.tomshardware.com
 $boost=3,site=community.brave.com
 $boost=3,site=tenforums.com
+$boost=3,site=community.spiceworks.com
+
 
