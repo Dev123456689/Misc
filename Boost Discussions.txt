@@ -4,8 +4,8 @@
 ! author: Dev
 
 
-$boost=4,site=reddit.com
-$boost=4,site=old.reddit.com
+$boost=3,site=reddit.com
+$boost=3,site=old.reddit.com
 $boost=3,site=forum.xda-developers.com
 $boost=3,site=xdaforums.com
 $boost=3,site=quora.com
